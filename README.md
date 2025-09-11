@@ -12,10 +12,10 @@ Dive into Aarav's digital life—his messages, photos, and notes—to piece toge
 
 ## 🎮 How to Play
 
-1.  **Unlock the Phone**: Start by figuring out the 4-digit PIN to get past the lock screen. Clues might be hiding in plain sight.
-2.  **Explore the Apps**: Navigate through the phone's apps—Messages, Gallery, Notes, and more. Each app holds a piece of the story.
-3.  **Solve Puzzles**: Some data is encrypted. You'll need to solve unique puzzles like Sudoku, Minesweeper, and riddles to recover corrupted files and reveal critical clues.
-4.  **Uncover the Truth**: Connect the dots from all the information you gather to understand what happened to Aarav and decide who to trust.
+1. **Unlock the Phone**: Start by figuring out the 4-digit PIN to get past the lock screen. Clues might be hiding in plain sight.
+2. **Explore the Apps**: Navigate through the phone's apps—Messages, Gallery, Notes, and more. Each app holds a piece of the story.
+3. **Solve Puzzles**: Some data is encrypted. You'll need to solve unique puzzles like Sudoku, Minesweeper, and riddles to recover corrupted files and reveal critical clues.
+4. **Uncover the Truth**: Connect the dots from all the information you gather to understand what happened to Aarav and decide who to trust.
 
 -----
 
@@ -34,7 +34,7 @@ To play the game, you can clone this repository and open the file in your browse
 Open your terminal or command prompt and run the following command:
 
 ```bash
-git clone https://github.com/sridharplays/dear-stranger.git
+git clone https://github.com/SridharPlays/dear-stranger.git
 ```
 
 ### 2\. Run the Game
